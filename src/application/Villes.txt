@@ -1,0 +1,11 @@
+dakar
+paris
+montreal
+barcelone
+las-vegas
+marakech
+singapour
+londre
+melbourne
+new-York 
+
